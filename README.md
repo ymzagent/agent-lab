@@ -1,2 +1,3 @@
 # agent-lab
-Sandbox repo for testing the dsh-superagent prototype
+
+Sandbox for the dsh-superagent prototype.
